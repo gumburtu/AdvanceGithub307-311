@@ -4,10 +4,10 @@ public class Book {
         //seval branci icin degisiklik
         //degisiklik-3
         System.out.println("sevalaslan");
-
     }
 
     //yeni bir field
     public String author;
+    //yeni seyler
 
 }
