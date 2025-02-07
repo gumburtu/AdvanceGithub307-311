@@ -5,5 +5,6 @@ public class MyClass {
         //advance github dersine hosgeldiniz
 
         //dev branchinde degisklik yaptim.
+
     }
 }
