@@ -1,6 +1,7 @@
 public class Book {
     public static void main(String[] args) {
-        //burada da bir seyler yazdik
+        //burada da bir seyler yazdik.
         //baska degisiklik.
+        //aslan brancinde bir degisiklik yaptim.
     }
 }
