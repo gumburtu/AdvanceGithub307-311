@@ -4,6 +4,7 @@ public class MyClass {
         System.out.println("Herkese selamlar");
         //advance github dersine hosgeldiniz
 
-        //something changed
+        //dev branchinde degisklik yaptim.
+
     }
 }
