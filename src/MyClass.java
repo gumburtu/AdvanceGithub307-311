@@ -3,5 +3,7 @@ public class MyClass {
         //degisiklik-1
         System.out.println("Herkese selamlar");
         //advance github dersine hosgeldiniz
+
+        //something changed
     }
 }
